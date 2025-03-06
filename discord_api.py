@@ -2,7 +2,7 @@ import discord                 #   Libreria para conectar con Discord
 from discord.ext import commands
 from dotenv import load_dotenv #   Libreria para cargar variables de entorno
 import os                      #   Libreria para mandar comandos de sistema
-import requests                #   Libreria para mandar comandos de sistema
+import requests                #   Libreria para hacer rqst
 import time
 
 load_dotenv()
